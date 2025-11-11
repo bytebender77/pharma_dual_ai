@@ -1,3 +1,0 @@
-conda activate pharma-ai
-cd "/Users/kunalkumargupta/Desktop/new pharma thursday 6pm/backend"
-python -m uvicorn app.main:app --reload
